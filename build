@@ -1,3 +1,4 @@
 #! bin/bash
 echo "Hello Nausad Hassan"
+echo "New branch is created with jenkinsdemo name"
 date
